@@ -7,7 +7,8 @@ This library is intended for the development of events feed for main Onestop Flu
 
 ## Additional Info
 - Please go through the repo first and always refer dev branch for latest updates.
-- For demo of each widget run the main.dart in dev
+- For demo of each widget run the main.dart in dev.
+- The package is inside the packages directory of the parent project. the parent project contains only demo app widget to be used for dev purposes.
 - Please refer comments available (if any) and use ctrl + click on each widget to navigate to it's definition.
 
 ## Need Help?
